@@ -40,6 +40,13 @@
 
 **Code:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+### 📫 Get in touch
+
+🟢 **Open to co-op / internship opportunities** in cybersecurity, network security and cloud security.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rabbi_Muhammad_Aman-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabbi-muhammad-aman-9136092a9)
+[![Email](https://img.shields.io/badge/Email-rabbiaman03%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rabbiaman03@gmail.com)
+
 ---
 
 <div align="center"><sub>All coursework shown was completed in isolated lab environments for academic purposes.</sub></div>
