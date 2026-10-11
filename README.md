@@ -25,10 +25,17 @@
 | 🏢 [**Enterprise Network Security**](https://github.com/rabbiaman03/spr500-security-project) | Network design and hardening | VLAN security zones, OSPF with MD5, nftables default-deny, AD DS, DNS split-horizon, TVRA, OSINT |
 | 🔐 [**Identity and Access Management**](https://github.com/rabbiaman03/iam500-identity-access-management) | Microsoft Entra ID / Azure | Conditional Access and MFA, B2B federation, RBAC, Key Vault and managed identities, Defender for Cloud Apps |
 | 🌐 [**Web Application Security**](https://github.com/rabbiaman03/was500-web-app-security) | Secure front-end development | XSS through `innerHTML`, client-side validation bypass, accessible responsive design · [live demo](https://rabbiaman03.github.io/was500-web-app-security/) |
+| 🔑 [**Applied Cryptography**](https://github.com/rabbiaman03/spr200-applied-cryptography) | Cryptography | Tor key exchange analysis, ECC benchmarks, RSA/Ed25519 in Python, an interactive Schnorr zero-knowledge proof, SPHINCS+ post-quantum signatures |
+| 🕵️ [**Cyber Defense Labs and Journals**](https://github.com/rabbiaman03/cyber-defense-labs-journals) | Defensive security | OpenVAS scanning, PCAP analysis with tcpdump and Wireshark, BloodHound AD attack paths, kill chain, Zero Trust |
+| 🪟 [**Windows CIS Hardening (Ansible)**](https://github.com/rabbiaman03/windows-cis-hardening-ansible) | Security automation | Ansible role enforcing CIS Benchmark controls over WinRM, with error handling and an HTML compliance report |
+| 🗄️ [**Databases, Security and Analytics**](https://github.com/rabbiaman03/ris330-database-security-analytics) | Data security | SQL schema design, binary-log point-in-time recovery, MongoDB, ELK centralized logging, spaCy NLP |
+| 🐍 [**Python Projects**](https://github.com/rabbiaman03/python-projects) | Programming | Tkinter football game (GUI and CLI) |
 
 ### 🛠️ Tech stack
 
-**Security:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![nftables](https://img.shields.io/badge/nftables-firewall-critical) ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?logo=microsoft&logoColor=white)
+**Security:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) ![nftables](https://img.shields.io/badge/nftables-firewall-critical) ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?logo=microsoft&logoColor=white)
+
+**Automation and data:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?logo=elasticsearch&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)
 
 **Systems and cloud:** ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
