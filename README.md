@@ -29,7 +29,6 @@
 | 🕵️ [**Cyber Defense Labs and Journals**](https://github.com/rabbiaman03/cyber-defense-labs-journals) | Defensive security | OpenVAS scanning, PCAP analysis with tcpdump and Wireshark, BloodHound AD attack paths, kill chain, Zero Trust |
 | 🪟 [**Windows CIS Hardening (Ansible)**](https://github.com/rabbiaman03/windows-cis-hardening-ansible) | Security automation | Ansible role enforcing CIS Benchmark controls over WinRM, with error handling and an HTML compliance report |
 | 🗄️ [**Databases, Security and Analytics**](https://github.com/rabbiaman03/ris330-database-security-analytics) | Data security | SQL schema design, binary-log point-in-time recovery, MongoDB, ELK centralized logging, spaCy NLP |
-| 🐍 [**Python Projects**](https://github.com/rabbiaman03/python-projects) | Programming | Tkinter football game (GUI and CLI) |
 
 ### 🛠️ Tech stack
 
