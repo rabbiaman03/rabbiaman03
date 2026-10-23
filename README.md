@@ -6,6 +6,8 @@
 
 *Network security · Identity and access management · Web application security · AI-assisted security analysis*
 
+**🌐 Portfolio: [rabbiaman03.github.io](https://rabbiaman03.github.io)**
+
 </div>
 
 ---
@@ -46,6 +48,7 @@
 
 🟢 **Open to co-op / internship opportunities** in cybersecurity, network security and cloud security.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rabbiaman03.github.io-7c8cff?logo=googlechrome&logoColor=white)](https://rabbiaman03.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rabbi_Muhammad_Aman-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabbi-muhammad-aman-9136092a9)
 [![Email](https://img.shields.io/badge/Email-rabbiaman03%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rabbiaman03@gmail.com)
 
