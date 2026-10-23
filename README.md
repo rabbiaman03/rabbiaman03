@@ -17,8 +17,6 @@
 - 🤖 Exploring how **LLM agents** can speed up log analysis and security operations, safely
 - 📂 This profile collects my labs and projects, each with a written report and evidence screenshots
 
-🌐 [**Portfolio website**](https://rabbiaman03.github.io/portfolio/)
-
 ### 📌 Featured work
 
 | Project | Focus | Highlights |
